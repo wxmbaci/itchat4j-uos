@@ -1,5 +1,9 @@
 # itchat4j -- 用Java扩展个人微信号的能力
 
+
+# UOS已经失效了，不能用了。建议使用原版。
+
+
 欢迎star、fork、 pull requests、 issue。
 
 ### 原项目地址：[yaphone/itchat4j](https://github.com/yaphone/itchat4j)，。
