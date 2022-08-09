@@ -1,7 +1,9 @@
 # itchat4j -- 用Java扩展个人微信号的能力
 
 
-# UOS已经失效了，不能用了。建议使用原版。
+
+# uos 的参数更新了，又可以用了。
+## ~~UOS已经失效了，不能用了。建议使用原版。~~
 
 
 欢迎star、fork、 pull requests、 issue。
@@ -10,6 +12,8 @@
 
 ## 示例项目程序[yaphone/itchat4jdemo](https://github.com/yaphone/itchat4jdemo)。
 
+## 22.08.09
+参考itchat-uos 1.5版本，修改请求参数，增加uos参数，现在已经可以模拟uos访问。
 
 ## 21.12.25
 参考itchat-uos 1.4.1版本，修改请求参数，增加uos参数，现在已经可以模拟uos访问。
